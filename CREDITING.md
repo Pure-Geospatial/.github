@@ -2,7 +2,7 @@
 
 Thompson-Wheeler Haskell Logo
 
-Used By (In): PureGIS Logo
+Used By (In): PureGIS Logo - What is a bind? What are monads?
 
 Source: https://wiki.haskell.org/index.php?title=Thompson-Wheeler_logo
 
